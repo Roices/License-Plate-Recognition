@@ -76,7 +76,7 @@ def convert2Square(image):
     """
     Resize non square image(height != width to square one (height == width)
     :param image: input images
-    :return: numpy array
+    :return: numpy array 
     """
 
     img_h = image.shape[0]
